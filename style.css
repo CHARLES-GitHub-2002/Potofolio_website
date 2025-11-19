@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("C:/Users/CHARLES/Downloads/potof/images/3d-robot-hand-background-ai-technology-side-view.jpg") no-repeat center;
+    background: url("https://github.com/CHARLES-GitHub-2002/Potofolio_website/blob/main/images/BSCKGROUND.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
